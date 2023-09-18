@@ -9,9 +9,10 @@ and detects whether or not timing and hit circles are detected. The coordinates 
 the class value to a dict with key Frame_no and value 
 (array([class_no, ...], dtype=float32), array([[xyxy], ...], dtype=float32)).
 The images are also saved as Frame_no.jpg.
+
 write_txt takes the dict as input and saves the keys and values in the following form
 Frame_no, (array([class_no, ...], dtype=float32), array([[xyxy], ...], dtype=float32))
-to a .txt file 
+to a .txt file. (See Preprocessing)
 '''
 
 model = YOLO('yolov8n.pt')
