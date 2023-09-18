@@ -11,7 +11,7 @@ LSTM model from Pytorch 2.0 in the future as well since it would cut out approxi
 costs me about 40 ms right now which makes a huge difference in the grand scheme of things.
 
 As of this moment, I am preprocessing the data for the LSTM model and will be training it shortly. I specifically used a similar loop in LSTM_Data_Collection.py as I did in Timing.py to ensure that the model would be trained under similar conditions
-that it would be run in. I may also change Preprocessing.py to save data into a .csv instead of a .txt using Pandas. This is very simply because it would look more elegant and math students love elegant solutions. It should also be noted that I
+that it would be run in. I may also change LSTM_Preprocessing.py to save data into a .csv instead of a .txt using Pandas. This is very simply because it would look more elegant and math students love elegant solutions. It should also be noted that I
 do not currently have a model set up to measure the accuracy of the program so that it can improve. I intend to complete this as well but I would prefer to get circles clicked to some extent first.
 
 This is my first time using GitHub so I apologize in advance if anything seems unorganized or unprofessional. I normally work in Jupyter Notebook so some code might be missing where it should be importing from other files.
