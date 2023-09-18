@@ -14,8 +14,9 @@ As of this moment, I am preprocessing the data for the LSTM model and will be tr
 that it would be run in. I may also change Preprocessing.py to save data into a .csv instead of a .txt using Pandas. This is very simply because it would look more elegant and math students love elegant solutions. It should also be noted that I
 do not currently have a model set up to measure the accuracy of the program so that it can improve. I intend to complete this as well but I would prefer to get circles clicked to some extent first.
 
-This is my first time using GitHub so I apologize in advance if anything seems unorganized or unprofessional. I also apologize if this isn't particularly what a README is for, I just thought this was the best place to share my thoughts. 
-For any concerns regarding cheating, my program runs solely off of screenshots and does not take information from anywhere else. I do not intend to use this to cheat nor do I suspect that it will even be better than I am at the game. This
-is purely for my self-interest and frankly I doubt whether or not I could even write something as capable as Neuro-sama for example. When I run any code on the game, I am logged out of my account so no pp is gained.
+This is my first time using GitHub so I apologize in advance if anything seems unorganized or unprofessional. I normally work in Jupyter Notebook so some code might be missing where it should be importing from other files.
+I also apologize if this isn't particularly what a README is for, I just thought this was the best place to share my thoughts. For any concerns regarding cheating, my program runs solely off of screenshots and does not take information from anywhere else.
+I do not intend to use this to cheat nor do I suspect that it will even be better than I am at the game. This is purely for my self-interest and frankly I doubt whether or not I could even write something as capable as Neuro-sama for example.
+When I run any code on the game, I am logged out of my account so no pp is gained.
 
 Please share any concerns or feedback to m34fang@uwaterloo.ca
