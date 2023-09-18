@@ -17,7 +17,7 @@ to a .txt file
 model = YOLO('yolov8n.pt')
 model = YOLO(r'D:\best.pt')
 
-bounding_box = (640, 360, 1280, 720)
+bounding_box = (640, 360, 1280, 720)  #These dimensions are set to the smallest native resolution of the game for my monitor
 Frame_no = 0
 coordinates = {}
 
